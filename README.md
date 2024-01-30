@@ -44,7 +44,7 @@ npm start
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/caiquepedasilva/organo/blob/master/public/imagens/Tela%20formulario.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/caiquepedasilva/organo/blob/master/public/imagens/Tela%20organo.png)
 
